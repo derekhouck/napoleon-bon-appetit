@@ -3,10 +3,38 @@
 
 @import "minima";
 
+// Page wrapper
 body {
   background: linear-gradient(to right, #002390 50%, #e9323e 50% 100%);
 }
 
 .wrapper {
   background: white;
+}
+
+// Header
+.site-header {
+  border: 0;
+  padding: 2em;
+  text-align: center;
+}
+.site-nav {
+  float: none;
+  .page-link {
+    margin: 0;
+  }
+}
+.site-title {
+  float: none;
+}
+
+@media screen and (max-width: 600px) {
+  .site-nav {
+    background-color: inherit;
+    border: 0;
+    position: relative;
+    right: 0;
+    text-align: center;
+    top: 0;
+  }
 }
