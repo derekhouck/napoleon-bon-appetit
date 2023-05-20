@@ -1,14 +1,14 @@
 ---
 id: 399
-title: '&#8216;Napoleon Bon Appétit&#8217; Invades Amazon Prime'
-date: '2016-06-20T08:30:30-08:00'
-author: 'Derek Houck'
+title: '"Napoleon Bon Appétit" Invades Amazon Prime'
+date: "2016-06-20T08:30:30-08:00"
+author: "Derek Houck"
 layout: post
-guid: 'http://napoleonbonappetit.com/?p=399'
+guid: "http://napoleonbonappetit.com/?p=399"
 permalink: /news/napoleon-bon-appetit-invades-amazon-prime/
 categories:
-    - Featured
-    - News
+  - Featured
+  - News
 ---
 
 “Napoleon Bon Appétit” has arrived on Amazon Video. Amazon Prime members can now stream seasons one and two of the cooking show with a complex for free. Non-Prime members can purchase individual episodes and season packs from amazon.com. Watch below or read the full [press release](https://www.prlog.org/12566676-napoleon-bon-apptit-invades-amazon-prime.html).
