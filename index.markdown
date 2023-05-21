@@ -4,5 +4,5 @@
 
 layout: home
 author: "Derek Houck"
-list_title: News
+list_title: Recent News
 ---
