@@ -8,6 +8,10 @@ body {
   background: linear-gradient(to right, #002390 50%, #e9323e 50% 100%);
 }
 
+.site-wrapper {
+  min-height: 100vh;
+}
+
 .wrapper {
   background: white;
 }
