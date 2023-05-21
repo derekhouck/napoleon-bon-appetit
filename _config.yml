@@ -21,7 +21,9 @@
 title: Napoleon Bon Appétit
 email: derek@derekhouck.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The cooking show with a complex
+  Meet the cooking show with a complex. “Napoleon Bon Appétit” is an original web series 
+  featuring Napoleon and his Kitchen Wench as the hosts of their own cooking show. The 
+  pair will be conquering a new recipe every two weeks.
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 show_excerpts: true
