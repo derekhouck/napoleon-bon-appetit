@@ -1,0 +1,40 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          {%- if site.copyright_by -%}
+            <li class="copyright">
+              &copy;{{ site.copyright_year | escape }} {{ site.copyright_by | escape }}
+            </li>
+          {%- endif -%}
+          <li class="p-name">
+            {%- if site.author_url -%}
+              Website maintained by<br />
+              <a href="{{ site.author_url }}">
+                {{ site.author | escape }}
+              </a>
+            {%- endif -%}
+          </li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <a href="{{ "/news/barbecue-spare-ribs-at-aof-2011/" | relative_url }}">
+          <img src="{{"/wp-content/uploads/2011/06/laurel-small.jpg" | relative_url }}" alt="Official Selection - Action On Film International Film Festival 2011" />
+        </a>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{- site.description | escape -}}</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
